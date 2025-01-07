@@ -1,0 +1,5 @@
+Name,Color,Price,Serial Number,Quantity
+Sofa,White,15,123456,155
+Pc,Black,1000,654321,111
+Chair,Green,1234,153452,101
+Bed,Purple,158,145321,555

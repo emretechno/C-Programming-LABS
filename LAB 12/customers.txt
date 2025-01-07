@@ -1,0 +1,5 @@
+Yusuf 15 VIP 4
+Burak 21 VIP 4
+Emre 16 Od 3
+Baris 27 Veteran 2
+Ahmet 29 Normal 1
